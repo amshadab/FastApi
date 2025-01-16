@@ -13,3 +13,4 @@ pyrebase4
 PyQt5
 uvicorn
 python-dotenv
+fastapi
