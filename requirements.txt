@@ -6,7 +6,6 @@ wikipedia
 pywhatkit
 pygetwindow
 requests
-pyaudio
 setuptools
 pycaw
 firebase-admin
