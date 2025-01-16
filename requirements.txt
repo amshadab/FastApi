@@ -11,4 +11,5 @@ pycaw
 firebase-admin
 pyrebase4
 PyQt5
+uvicorn
 python-dotenv
